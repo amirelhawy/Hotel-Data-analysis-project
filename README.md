@@ -17,6 +17,7 @@
 ![dict](https://user-images.githubusercontent.com/61375401/203126016-904bddf8-d703-443a-a640-4980b4d43f35.jpeg)
 
 ###  4. use the dict to replace country data , and rplace null values also all this using foreach loop and if condition 
+![dict 2](https://user-images.githubusercontent.com/61375401/203126660-761bd1e5-b03c-48d0-909a-7949218457e4.jpeg)
 
 ###  5. then union all the data and load it into the destination database 
 ![dict3](https://user-images.githubusercontent.com/61375401/203105256-16ce12fa-7c83-4761-a140-7dcd92fea310.jpeg)
