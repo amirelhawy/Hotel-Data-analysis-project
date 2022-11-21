@@ -22,3 +22,8 @@
 
 ### 4. also needed to load other execl sheets and there is an integration tool for sql called (SQL server import and export)
 ![ScreenShot_20221121182241](https://user-images.githubusercontent.com/61375401/203106108-d5fe65d7-e904-4327-b633-8414a82b1d83.jpeg)
+
+### 5. start to exploer the database with sql quires 
+![ScreenShot_20221121192151](https://user-images.githubusercontent.com/61375401/203120249-2ecbfca9-58eb-4057-bba0-1f4484395214.jpeg)
+
+
