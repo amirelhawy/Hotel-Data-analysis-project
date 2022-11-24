@@ -22,6 +22,7 @@
 ###  5. then union all the data and load it into the destination database 
 ![dict3](https://user-images.githubusercontent.com/61375401/203105256-16ce12fa-7c83-4761-a140-7dcd92fea310.jpeg)
 ![ScreenShot_20221121182102](https://user-images.githubusercontent.com/61375401/203105732-3346b0a9-625b-4090-84b5-68e83bae5277.jpeg)
+![ScreenShot_20221124161853](https://user-images.githubusercontent.com/61375401/203806851-da3d7b53-11ab-4859-a8dc-7b8c7288a96e.jpeg)
 
 ###  6. also needed to load other execl sheets and there is an integration tool for sql called (SQL server import and export)
 ![ScreenShot_20221121182241](https://user-images.githubusercontent.com/61375401/203106108-d5fe65d7-e904-4327-b633-8414a82b1d83.jpeg)
