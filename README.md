@@ -31,6 +31,6 @@
 ![ScreenShot_20221121192151](https://user-images.githubusercontent.com/61375401/203120249-2ecbfca9-58eb-4057-bba0-1f4484395214.jpeg)
 
 ### 8. After exploring our dataset with T-SQl, proceed to visualize this explorations with charts using a tableau .
-![ScreenShot_20221124160907](https://user-images.githubusercontent.com/61375401/203804703-3bf48a23-0aa6-4bcb-93a2-36c70f2dd383.jpeg)
+![ScreenShot_20221126231007](https://user-images.githubusercontent.com/61375401/204109073-db88b518-4f34-4f6d-bc73-627bfbe62432.jpeg)
 
 
