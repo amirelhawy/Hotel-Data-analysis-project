@@ -1,7 +1,7 @@
 # Hotel-Data-analysis-project 
 
 ## project pipline 
-![fresh](https://user-images.githubusercontent.com/61375401/203103045-d8c84f12-e808-4623-949a-e9309975d981.png)
+![203103045-d8c84f12-e808-4623-949a-e9309975d981](https://user-images.githubusercontent.com/61375401/204104551-4c9a6e92-67ca-4d31-b265-8fbce2aba835.png)
 
 
 
